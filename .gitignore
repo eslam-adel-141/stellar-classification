@@ -6,3 +6,4 @@ venv/
 stellar_experiments/
 mlruns/
 predictions/
+*.deb
