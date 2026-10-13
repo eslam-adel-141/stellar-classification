@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+notebooks/
+stellar_experiments/
+mlruns/
+predictions/
+.git
